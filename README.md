@@ -12,6 +12,7 @@ The webserver here has 3 possible requests; `index.html`, `getaway.html`, and an
 
 Build instructions:
 - Run `make clean` just to be sure.
+- Execute the MakeFile with `make`.
 - Run `./server 34000` to launch the server locally on port `34000`. You can choose whatever port you like.
 
 Below is a snippet from the command-line after a couple of client requests to the server:
