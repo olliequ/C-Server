@@ -1,0 +1,7 @@
+*.o
+tests/*.o
+TEST_out.txt
+TEST_out.png
+server
+test
+tests
